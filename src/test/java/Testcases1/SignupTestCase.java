@@ -32,3 +32,5 @@ public class SignupTestCase extends baseclass1{
 	commonmethods1.selectdropdown(SPO.selectcountry(), 3);
 	}
 }
+
+//added by Arti
